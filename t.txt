@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-
-
-rergeer
->>>>>>> git
-rferf
